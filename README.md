@@ -49,6 +49,6 @@ LINK: (enlace_servidor)../includes/login.php
 
 NOTAS BORRADOR:
 <div class="alert alert-primary" role="alert">
-  Para volver al menu principal ---> <a href="http://c2341303.ferozo.com/api3/parcial1/user.php" class="alert-link">Volver</a>
+  Para volver al menu principal ---> <a href="http://direccionpaginaweb/user.php" class="alert-link">Volver</a>
       </div>
 
