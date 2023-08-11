@@ -11,10 +11,9 @@ Proyecto Realizado en PHP
 :: SITIO FEROZO HOST  
 :: Ayuda guia conexion mysql:
 
-Usuario:
-Clave:
-Base de datos: c2341303_r_user (modificar desde panel y los archivos las rutas correspondientes)
-Servidor:
+Servidor, Usuario, Clave, BD
+Base de datos: c2341303_r_user (antiguo nombre), modificar desde panel y los archivos las rutas correspondientes)
+
 
 
 ---------------------------------------------------------------------------------------------
